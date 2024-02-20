@@ -1,0 +1,14 @@
+../Core/Src/main.c:68:6:LCD_Command	1
+../Core/Src/main.c:80:6:LCD_Data	1
+../Core/Src/main.c:92:6:LCD_Init	1
+../Core/Src/main.c:118:6:LCD_GotoXY	2
+../Core/Src/main.c:126:6:LCD_String	2
+../Core/Src/main.c:134:6:LCD_GotoXY_String	2
+../Core/Src/main.c:143:6:HAL_TIM_IC_CaptureCallback	7
+../Core/Src/main.c:195:5:main	1
+../Core/Src/main.c:249:6:SystemClock_Config	3
+../Core/Src/main.c:289:13:MX_I2C1_Init	2
+../Core/Src/main.c:323:13:MX_TIM2_Init	4
+../Core/Src/main.c:371:13:MX_TIM3_Init	4
+../Core/Src/main.c:416:13:MX_GPIO_Init	1
+../Core/Src/main.c:449:6:Error_Handler	1
